@@ -1,11 +1,11 @@
-# 🏀 Bigger Than Hoop Dreams (BTHD)
+# Bigger Than Hoop Dreams (BTHD)
 
 > **Note:** BTHD-Core is a proprietary platform currently in development. This repository serves as a technical and product case study. The source code is private to protect intellectual property.
 
-## 📌 Executive Summary
+## Executive Summary
 BTHD is a comprehensive transition ecosystem designed to solve the post-career crisis for elite athletes. By combining data-driven identity assessments with synchronous community mentorship, the platform bridges the gap between professional sports and long-term professional legacy.
 
-## 🏗️ Product Architecture
+## Product Architecture
 
 ```text
 [User Onboarding]
