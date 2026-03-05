@@ -24,3 +24,12 @@ BTHD is a comprehensive transition ecosystem designed to solve the post-career c
          ├──> [The Huddle / LiveRoom] ──> (Role-Based State: Hosts & Listeners)
          ▼          ▼
 [Legacy Building & Corporate Matchmaking]
+### The Command Center: Data-Driven Operational Oversight
+
+The BTHD Admin suite provides organizational partners with a dual-view window into their talent pipeline:
+
+1. **The Live Engine:** Real-time monitoring of athlete onboarding, huddle engagement, and active pathway status.
+2. **The Intelligence Layer:** Deep-dive metrics on archetype distribution (Commander, Architect, Catalyst) and career pathway completion rates.
+
+![Admin Top View](13-Admin dashboard mock.png)
+![Admin Bottom View](14-Admin-Metrics.png)
